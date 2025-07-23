@@ -21,7 +21,7 @@ A simple terminal-based **Tic-Tac-Toe** game built in Python for two players.
 ```bash
 git clone https://github.com/godfreydekew/tictactoe_game.git
 cd tictactoe_game
-python3 tictactoe.py
+python3 main.py
 ```
 
 
